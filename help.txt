@@ -1,1 +1,2 @@
 `Ping` **Geeft pong! weer in de chat!** __Gebruik__: d!ping
+`Help` **Geeft deze embed weer in de chat!** __Gebruik__: d!help
