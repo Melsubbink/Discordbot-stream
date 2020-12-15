@@ -1,0 +1,22 @@
+{
+  "name": "discordbot-stream",
+  "version": "1.0.0",
+  "description": "Discord bot made on stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melsubbink/Discordbot-stream.git"
+  },
+  "author": "Crossed Faces",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Melsubbink/Discordbot-stream/issues"
+  },
+  "homepage": "https://github.com/Melsubbink/Discordbot-stream#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
