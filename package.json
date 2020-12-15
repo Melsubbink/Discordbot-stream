@@ -4,7 +4,8 @@
   "description": "A bot made on stream",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon index.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/Melsubbink/Discordbot-stream/issues"
   },
-  "homepage": "https://github.com/Melsubbink/Discordbot-stream#readme"
+  "homepage": "https://github.com/Melsubbink/Discordbot-stream#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
 }
